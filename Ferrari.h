@@ -6,6 +6,10 @@ class Ferrari
 public:
 	Ferrari();
 	~Ferrari();
+	
+private:
+	
+	int maximumSpeed;
 
 };
 
